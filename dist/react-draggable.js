@@ -446,7 +446,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  position: null
 	});
 	exports.default = Draggable;
-	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
+	/* WEBPACK VAR INJECTION */}.call(exports, window))
 
 /***/ },
 /* 2 */
